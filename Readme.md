@@ -31,3 +31,5 @@ Mall Customers dataset (Age, Income, Spending Score)
 
 ## Conclusion
 Customer segmentation helps businesses perform targeted campaigns and make better data-driven decisions.
+<img width="2000" height="2826" alt="image" src="https://github.com/user-attachments/assets/a8c6e4bc-2f73-42d0-8244-3edbb063b973" />
+
