@@ -33,5 +33,7 @@ Mall Customers dataset (Age, Income, Spending Score)
 Customer segmentation helps businesses perform targeted campaigns and make better data-driven decisions.
 <img width="2000" height="2826" alt="image" src="https://github.com/user-attachments/assets/a8c6e4bc-2f73-42d0-8244-3edbb063b973" />
 <img width="2000" height="2826" alt="image" src="https://github.com/user-attachments/assets/9f565428-20a1-445e-afa8-a1df454b7b9e" />
+<img width="2000" height="2826" alt="image" src="https://github.com/user-attachments/assets/2429663c-13d2-4493-8b22-6a225c8134b5" />
+
 
 
