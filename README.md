@@ -29,5 +29,7 @@ Window Functions: (If used, e.g., RANK(), ROW_NUMBER()).
 <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/a0dbf7f2-a716-4b5f-b62d-dd2b8f749275" />
 <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/b5216f15-921e-4e69-bc9a-27176c99ecdb" />
 <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/edc601e8-1363-40b1-879c-41b3f514d77c" />
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/6c460550-9a74-4ac1-807c-431f46eee09a" />
+
 
 
