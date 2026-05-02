@@ -26,3 +26,4 @@ Joins: Combining multiple tables for a unified view.
 Grouping & Ordering: Using GROUP BY and ORDER BY for structured insights.
 
 Window Functions: (If used, e.g., RANK(), ROW_NUMBER()).
+<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/a0dbf7f2-a716-4b5f-b62d-dd2b8f749275" />
