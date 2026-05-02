@@ -1,0 +1,22 @@
+1. Project Title
+Customer Shopping Behavior Analysis Dashboard
+
+2. Project Overview
+This project focuses on analyzing customer shopping patterns and trends using a retail dataset.
+
+The goal is to provide actionable insights into customer preferences and purchasing behavior.
+
+3. Key Features
+Interactive Dashboard: Created using Power BI to visualize key metrics.
+
+Data Analysis: Includes data cleaning and exploratory data analysis (EDA) to understand shopping trends.
+
+Visualizations: Uses various charts and graphs to represent customer segments and behavior.
+
+4. Tech Stack
+Tool: Power BI Desktop
+
+Data Source: US Retail Dataset (K-Means clustering was also applied for segmentation in related work).
+
+5. How to Use
+You can download the Power BI file By Anil.pbix file from this repository and open it in Power BI Desktop to explore the interactive reports.
